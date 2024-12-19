@@ -1,0 +1,14 @@
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/bin/Debug/net8.0/labb3
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/bin/Debug/net8.0/labb3.deps.json
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/bin/Debug/net8.0/labb3.runtimeconfig.json
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/bin/Debug/net8.0/labb3.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/bin/Debug/net8.0/labb3.pdb
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/obj/Debug/net8.0/labb3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/obj/Debug/net8.0/labb3.AssemblyInfoInputs.cache
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/obj/Debug/net8.0/labb3.AssemblyInfo.cs
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/obj/Debug/net8.0/labb3.csproj.CoreCompileInputs.cache
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/obj/Debug/net8.0/labb3.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/obj/Debug/net8.0/refint/labb3.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/obj/Debug/net8.0/labb3.pdb
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/obj/Debug/net8.0/labb3.genruntimeconfig.cache
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb3/labb3/labb3/obj/Debug/net8.0/ref/labb3.dll
